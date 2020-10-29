@@ -10,4 +10,4 @@ In this module, you will learn about k-means clustering, which is a form of unsu
 
 ## My Final Assignment Notebook 
 
-[Notebook]https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/882d6719-9a80-4352-be40-3fd3b0a1faf5/view?access_token=5a4414ce20b0a76d6702abb4c04d45e159823f3ed418c5b3d5bc83fe0921a24b
+[Notebook](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/882d6719-9a80-4352-be40-3fd3b0a1faf5/view?access_token=5a4414ce20b0a76d6702abb4c04d45e159823f3ed418c5b3d5bc83fe0921a24b)
